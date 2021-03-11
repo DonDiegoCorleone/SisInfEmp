@@ -4,3 +4,4 @@ Enviar enlace del video.
 PDF de exposición y PDF de desarrollo.
 El trabajo podrá ser expuesto en clase por el alumno. 
 Tiempo de exposición de 5 minutos.
+Ejemplo -> video de Amazon
